@@ -7,7 +7,7 @@ using InterviewTask_Dotnet.Models;
 
 namespace InterviewTask_Dotnet.Repositories
 {
-    public class InMemoryPasswordRepository : IPasswordRepository
+    public class PasswordRepository : IPasswordRepository
     {
     private readonly List<PasswordItem> _items = new();
     private int _nextId = 1;

@@ -31,3 +31,4 @@
 /Users/bilel.dhifi/Desktop/InterviewTask_Angular/InterviewTask_Dotnet/obj/Debug/net8.0/InterviewTask_Dotnet.pdb
 /Users/bilel.dhifi/Desktop/InterviewTask_Angular/InterviewTask_Dotnet/obj/Debug/net8.0/InterviewTask_Dotnet.genruntimeconfig.cache
 /Users/bilel.dhifi/Desktop/InterviewTask_Angular/InterviewTask_Dotnet/obj/Debug/net8.0/ref/InterviewTask_Dotnet.dll
+/Users/bilel.dhifi/Desktop/InterviewTask_Angular/InterviewTask_Dotnet/obj/Debug/net8.0/InterviewTask_Dotnet.sourcelink.json
