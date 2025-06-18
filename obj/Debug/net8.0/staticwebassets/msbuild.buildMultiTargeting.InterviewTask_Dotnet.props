@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/InterviewTask_Dotnet.props" />
+</Project>

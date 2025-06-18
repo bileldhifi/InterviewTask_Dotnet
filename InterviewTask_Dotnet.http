@@ -1,0 +1,6 @@
+@InterviewTask_Dotnet_HostAddress = http://localhost:5042
+
+GET {{InterviewTask_Dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
