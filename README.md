@@ -24,7 +24,7 @@ This is the backend API of the password manager built with ASP.NET Core.
 | POST   | `/api/passwords`      | Add a new password      |
 | PUT    | `/api/passwords/{id}` | Update a password       |
 | DELETE | `/api/passwords/{id}` | Delete a password       |
-
+| GET    | `/api/passwords/decrypted/{id}` | Get a specific decrypted password |
 
 ## 📦 Installation
 
