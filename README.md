@@ -29,6 +29,9 @@ This is the backend API of the password manager built with ASP.NET Core.
 ## 📦 Installation
 
 1- git clone https://github.com/bileldhifi/InterviewTask_Angular.git
+
 2- cd InterviewTask_Dotnet
+
 3- dotnet build
+
 4- dotnet run
